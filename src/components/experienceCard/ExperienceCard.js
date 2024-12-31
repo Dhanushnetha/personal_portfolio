@@ -102,11 +102,16 @@ class ExperienceCard extends Component {
                 style={{
                   display: "flex",
                   justifyContent: "flex-start",
+                  flexDirection: "column",
+                  width: "100%",
+                  flexWrap: "wrap",
                   marginTop: 20,
                 }}
               >
                 <div className="repo-description" />
-                {experience["description"]}
+                {experience.descriptions.map((sentence) => {
+                  return <p>{sentence}</p>;
+                })}
               </div>
             </div>
           </div>
