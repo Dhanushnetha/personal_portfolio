@@ -127,7 +127,7 @@ const skills = {
         "⚡ Creating application backend in Node, Express",
         "⚡ Using Mongodb and MYSQL for database management",
         "⚡ Prisma as a type-safe database query builder",
-        "⚡ Using Clerk and Next0 for Authentication and User management",
+        "⚡ Using Clerk and Auth0 for Authentication and User management",
       ],
       softwareSkills: [
         {
