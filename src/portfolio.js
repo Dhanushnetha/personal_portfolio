@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Gujjari Dhanush Kumar Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://dhanuportfolio9.netlify.app/",
   },
 };
 
