@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / Nextjs / .NET / MAUI and some other cool libraries and frameworks.",
   resumeLink:
-    "https://drive.google.com/file/d/1c6miy46KZ6A4UbMrCUkNW5NCFcLYcPz_/view?usp=sharing",
+    "https://drive.google.com/file/d/1OdKqoeipO9uTXEZ-sWsMb-YL-EVrmW7t/view?usp=sharing",
   portfolio_repository: "https://github.com/Dhanushnetha",
   githubProfile: "https://github.com/Dhanushnetha",
 };
